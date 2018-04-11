@@ -1,4 +1,3 @@
-### HOW DOES IT WORK ?
 The script below goes through each ad group and finds the best ad. Then, it works out what could have happened if the other ads had been paused and all their impressions had gone to the winning ad. That tells you how much you’re missing out on (and which ad groups should be priorities when setting up new tests).
 
 To do this, the script assumes the same number of total impressions for the ad group, but with the average performance — CTR, CPC and so on — of the winning ad (or ads, if there’s a tie).
