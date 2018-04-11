@@ -2,6 +2,8 @@ Before running it, you first need to make sure you’ve got the correct settings
 
 1. The bid multipliers run from a Google spreadsheet and the URL needs to be inserted into the code as spreadsheetUrl. We suggest you copy our template sheet and set your bids up in it. The doc should look something like this: In cells B2 to H25, input the bid multipliers: a 0% bid multiplier doesn’t change any bids, and a 25%/-25%
 
+![alt text](https://github.com/caladamson/Marketing-Scripts/blob/master/Bidding/screenshot.png "Example sheet")
+
 2. If you want to use mobile multipliers as well, they go in the second sheet of the same spreadsheet.
 
 3. You need to set the variable shoppingCampaigns to true if you want to use it on shopping campaigns, or to false to use it on Search or Display campaigns.
