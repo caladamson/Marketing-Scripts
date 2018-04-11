@@ -1,4 +1,4 @@
-###HOW DOES IT WORK?
+### HOW DOES IT WORK?
 
 The script checks each campaign’s spend and budget. All you need to do is set a multiplier threshold — if the spend is larger than the budget multiplied by the threshold, then the campaign is labeled. You’ll get an email listing the newly labeled campaigns, along with their spend and budgets. And if you want, you can set another threshold so that if the spend gets too far over your budget, the campaign will be paused.
 
