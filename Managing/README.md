@@ -1,4 +1,4 @@
-### HOW DOES IT WORK ?
+
 The script reads a Google spreadsheet that you’ve created and matches that against your campaigns’ queries. If there’s a query that doesn’t match one of your keywords, a negative keyword will be added to exclude the query.
 
 The script chops the query into bits and makes phrase match negatives wherever possible, so each negative can exclude as many unwanted searches as possible while keeping anything that matches the keywords. It’s a bit of a hack, but if you read on, you’ll see the results are worth it.
