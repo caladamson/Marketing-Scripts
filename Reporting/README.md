@@ -1,5 +1,3 @@
-### HOW DOES IT WORK?
-Maybe you’ve got different terms for the same product, like “shoes,” “boots” or “footwear,” and you want to know which one to use in your ad text. Or maybe you’ve got a couple of random phrases in mind, and you want to see if there are enough searches including them to justify giving them their own campaigns.
 
 The script goes through your account’s search terms and adds up the performance of all queries containing your phrases at the account, campaign and ad group level. This is recorded in a Google spreadsheet for you to peruse. There’s also a sheet with the overall stats for each phrase by month, which shows you how seasonality affects the queries.
 
