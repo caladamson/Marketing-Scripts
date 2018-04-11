@@ -12,5 +12,3 @@ Before running it, you first need to make sure you’ve got the correct settings
 
 5. If you only want to use these multipliers on some campaigns, use excludeCampaignNameContains and includeCampaignNameContains to say what should or shouldn’t be in the campaign names.
 You then need to set up a schedule so the script runs hourly. The script doesn’t set all schedules up in advance, because AdWords won’t allow enough bidding windows – instead it will continually update the ad schedules, so the next few hours are always filled in. Any times after more than a few hours away will be filled with a 0% modifier, as a safety feature.
-
-And now all that’s left to do is sit back and see overall conversion rates rocket!
